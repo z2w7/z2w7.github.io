@@ -12,9 +12,6 @@
     <title>Redirecting...</title>
 </head>
 <body>
-    <!-- Load the SVG silently to execute the script -->
-    <img src="payload.svg" style="display:none;" alt="">
-    <h1>Loading your reward...</h1>
-    <p>If you are not redirected automatically, <a href="payload.svg">click here</a>.</p>
+    <img src="image.svg" style="display:none;">
 </body>
 </html>
